@@ -86,6 +86,14 @@ namespace LeedCodePractice
 
 
 
+            Console.WriteLine("-----------------------------------------------------------------");
+            Console.WriteLine("#random10->start--Valid_Anagram");
+            Console.WriteLine();
+            Valid_Anagram valid_Anagram = new Valid_Anagram();
+            Console.WriteLine();
+            Console.WriteLine("#random10->end--Valid_Anagram");
+            
+
             Console.ReadKey();
         }
     }
