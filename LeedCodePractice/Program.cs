@@ -74,6 +74,18 @@ namespace LeedCodePractice
             Console.WriteLine();
             Console.WriteLine("#random5->end--Binary_Tree_Preorder_Traversal");
 
+
+
+            Console.WriteLine("-----------------------------------------------------------------");
+            Console.WriteLine("#random9->start--ContainsDuplicate");
+            Console.WriteLine();
+            ContainsDuplicate containsDuplicate = new ContainsDuplicate();
+            Console.WriteLine();
+            Console.WriteLine("#random9->end--ContainsDuplicate");
+
+
+
+
             Console.ReadKey();
         }
     }
