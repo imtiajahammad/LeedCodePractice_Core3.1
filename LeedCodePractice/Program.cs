@@ -33,38 +33,38 @@ namespace LeedCodePractice
 
             Console.WriteLine("-----------------------------------------------------------------");
 
-            Console.WriteLine("#random4->start--Rotate_Image");
+            Console.WriteLine("#random3->start--Rotate_Image");
             Console.WriteLine();
             Rotate_Image Rotate_Image = new Rotate_Image();
             Console.WriteLine();
-            Console.WriteLine("#random4->end--Rotate_Image");
+            Console.WriteLine("#random3->end--Rotate_Image");
 
 
             Console.WriteLine("-----------------------------------------------------------------");
 
-            Console.WriteLine("#random5->start--Reverse_String");
+            Console.WriteLine("#random3->start--Reverse_String");
             Console.WriteLine();
             Reverse_String Reverse_String = new Reverse_String();
             Console.WriteLine();
-            Console.WriteLine("#random5->end--Reverse_String");
+            Console.WriteLine("#random3->end--Reverse_String");
 
 
 
             Console.WriteLine("-----------------------------------------------------------------");
 
-            Console.WriteLine("#random6->start--Reverse_Integer");
+            Console.WriteLine("#random4->start--Reverse_Integer");
             Console.WriteLine();
             Reverse_Integer Reverse_Integer = new Reverse_Integer();
             Console.WriteLine();
-            Console.WriteLine("#random6->end--Reverse_Integer");
+            Console.WriteLine("#random4->end--Reverse_Integer");
 
 
             Console.WriteLine("-----------------------------------------------------------------");
-            Console.WriteLine("#random7->start--First Unique Character in string");
+            Console.WriteLine("#random4->start--First Unique Character in string");
             Console.WriteLine();
             First_Unique_Character_in_string First_Unique_Character_in_string = new First_Unique_Character_in_string();
             Console.WriteLine();
-            Console.WriteLine("#random7->end--First Unique Character in string");
+            Console.WriteLine("#random4->end--First Unique Character in string");
 
 
             Console.WriteLine("-----------------------------------------------------------------");
@@ -72,17 +72,8 @@ namespace LeedCodePractice
             Console.WriteLine();
             Binary_Tree_Preorder_Traversal Binary_Tree_Preorder_Traversal = new Binary_Tree_Preorder_Traversal();
             Console.WriteLine();
-            Console.WriteLine("#random8->end--Binary_Tree_Preorder_Traversal");
+            Console.WriteLine("#random5->end--Binary_Tree_Preorder_Traversal");
 
-
-
-
-            Console.WriteLine("-----------------------------------------------------------------");
-            Console.WriteLine("#random9->start--ContainsDuplicate");
-            Console.WriteLine();
-            ContainsDuplicate containsDuplicate = new  ContainsDuplicate();
-            Console.WriteLine();
-            Console.WriteLine("#random9->end--ContainsDuplicate");
             Console.ReadKey();
         }
     }
